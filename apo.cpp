@@ -1,10 +1,10 @@
 #include<iostream>
 using namespace std;
 int main()
-{int a;
-float fvalue;
-double dvalue;
-char name;
-cout<<"the size of int data type is : "<<sizeof(int)<<endl<<"the size of float data type is: "<<sizeof(float)<<endl<<"the size of double data type is: "<<sizeof(double)endl<<"the size of character data type is: "<<sizeof(char)<<endl<<"the size of boolean data type is: "<<sizeof(bool);
+{ float num;
+cout<<"write length(in centimeter)";
+cin>>num;
+cout<<"the lenth in meter is: "<<num/100<<endl;
+cout<<"the length in km is: "<<num/100000;
 return 0;
 }
