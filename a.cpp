@@ -1,10 +1,11 @@
 #include<iostream>
 using namespace std;
 int main()
-{float num;
-cout<<"write temp. in fahrenheit :";
-cin>>num;
-cout<<endl;
-cout<<"temp. in celsius :"<<(num-32)*5/9;
+{
+for (int i=0;i<5;i++)
+{{ for(int j=0;j<5;j++)
+ cout<<"*";
+}
+cout<<endl;}
 return 0;
 }
