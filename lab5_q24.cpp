@@ -1,14 +1,12 @@
-#include <iostream>
-
-using namespace std;
-
+#include<stdio.h>
 int main()
 {
- int i=1;
- while(i<=50)
- {
-   cout<<2*i<<" ";
-   i++;
+  char ch='A';
 
- }
+  while(ch <= 'Z')
+  {
+    printf("%c ", ch);
+    ch = ch + 1;
+  }
+  return 0;
 }
