@@ -1,0 +1,49 @@
+Q1.
+
+(1).*p3 = S
+(2).*p3 = T, 
+(3). p3 = 6940
+(4).*p1 = S, 
+(5). p1 = 9772
+
+
+
+
+Q2.
+
+D.*p = 75
+
+
+
+Q3.p is a pointer that is supposed to point to a double datatype but instead is asked to point at a character. 
+
+
+Q4.
+
+A
+
+C
+
+B
+
+A
+
+B
+
+C
+
+B
+
+C
+
+C
+
+C
+ 
+
+
+
+
+
+  
+	
